@@ -1,6 +1,9 @@
 >> Comenzi : 
+
 > sm_give_case <client> <case_id> <total>
+ 
 > sm_give_key -,-
+
 > sm_case (main menu)
 
 > case_core.ini -> addons/sourcemod/configs
