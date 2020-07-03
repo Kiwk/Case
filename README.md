@@ -3,3 +3,8 @@
 > Case.smx -> addons/sourcemod/plugins
 
 > Case.phrases.txt -> addons/sourcemod/translations
+
+> database.cfg 
+ "LLGAlex_main" {
+     ....
+ }
